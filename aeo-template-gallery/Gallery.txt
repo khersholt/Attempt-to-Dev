@@ -1,0 +1,35 @@
+---
+pageTitle: 'Azure Email Orchestrator - Email Template Gallery'
+description: 'Explains the process of finding a previously built email template in AEO'
+tags: 'aeo'
+audience: 'stakeholders'
+contentStatus: 'complete'
+---
+
+# Azure Email Orchestrator - Finding an Email Template in AEO
+
+All previously built email templates can be located in the Azure Email Orchestrator [Template Gallery](https://emails.azure.net/gallery/).
+
+![Gallery](./media/aeo-template-gallery/aeo-template-gallery/gallery-overview.png)
+
+## Searching for an Email Template
+
+1. To find your email template, enter some keywords into the search bar:  
+
+	![Search](./media/aeo-template-gallery/aeo-template-gallery/gallery-search.png)
+
+2. Click on "More Information" at the bottom for more details about this template.
+3. Click on "Preview in a new Window" to view the email preview link.
+
+  ![Preview](./media/aeo-template-gallery/aeo-template-gallery/template-preview.png)
+
+4. If your email template requires an update, click on the blue "Feedback" tab on the right side of the browser window to submit a [UserSnap](https://acom.azure.net/documentation/aeo-feedback-usersnap/).
+
+  ![UserSnap](./media/aeo-template-gallery/aeo-template-gallery/usersnap-feedback.png)
+  
+
+	> [AZURE.WARNING] If you do not receive an email from **UserSnap** with a link to your work item within one-to-five minutes, there may be an issue with the **UserSnap** integration. If this is the case, please contact the **ACOM Web Team** for further assistance.
+	
+	## References
+
+* [Providing Feedback on Emails with UserSnap](https://acom.azure.net/documentation/aeo-feedback-usersnap/)
